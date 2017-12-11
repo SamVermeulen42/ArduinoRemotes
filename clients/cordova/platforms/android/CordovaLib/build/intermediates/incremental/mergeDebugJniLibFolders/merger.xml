@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/samvermeulen/Documents/private/github/ArduinoRemotes/clients/cordova/platforms/android/CordovaLib/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/samvermeulen/Documents/private/github/ArduinoRemotes/clients/cordova/platforms/android/CordovaLib/src/debug/jniLibs"/></dataSet></merger>
